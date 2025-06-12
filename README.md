@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=2025%20Web%20Programming&fontAlignY=45&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=2025%20Web%20Programming&fontAlignY=45&fontSize=50" />
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Directories </h2>
