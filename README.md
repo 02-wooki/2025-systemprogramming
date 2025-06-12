@@ -55,5 +55,9 @@
         <td><a href='https://github.com/02-wooki/2025-systemprogramming/tree/main/0530'>0530</a></td>
         <td>5월 30일 강의내용</td>
       </tr>
+      <tr>
+        <td><a href='https://github.com/02-wooki/2025-systemprogramming/tree/main/0613'>0613</a></td>
+        <td>1학기 정리 및 리눅스 명령어 구현</td>
+      </tr>
     </table>
 </div>
